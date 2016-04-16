@@ -2,4 +2,6 @@
 
 2) I have a BS in Geology, an MA in Germanic Languages, and have done a ton of coursework in CS basically giving me the equivalent of BS in CS. I was in the first cohort at Georgia Tech's OMSCS -- but had to stop because the work load was too much for my family's health :)
 
-3) I cannot stop learning. I just can't.
+3) Using Ruby / RSpec / Watir / Appium for 2 years in automation work.
+
+4) I cannot stop learning. It's one of the most fun things for me.
