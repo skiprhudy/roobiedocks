@@ -1,5 +1,14 @@
-1) Develop a better base knowledge of Ruby that is directly comparable with other Rubyists.
-2) Fill in gaps in my Ruby knowledge. Right now I work a lot with website automation, but that doesn't expose me to enough Ruby software patterns.
-3) Have a set of projects that exercise my Ruby skills that I can reference later as documented examples of how to implement certain tasks.
+1) Develop a better base knowledge of Ruby.
+
+2) Fill in gaps in my Ruby knowledge. Right now I work a lot with website automation, but that doesn't expose me to
+enough Ruby software patterns.
+
+3) Have a set of projects that exercise my Ruby skills that I can reference later as documented examples of how to
+implement certain programming tasks.
+
 4) Get a better background for my Rails learning.
-5) Do better on live coding interviews.
+
+It may seem odd that someone with my level of experience is taking a "beginning" Ruby nanodegree. I have worked in
+many different technology stacks but have concluded that I prefer Ruby. I intend on focusing on Ruby and Rails for
+the remainder of my tech career. This course gives me a chance to do various solutions with Ruby and get feedback
+from other Rubyists.

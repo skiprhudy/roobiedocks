@@ -1,7 +1,7 @@
-1) One challenge I have is re-training my development thinking to take advantage of Ruby. Some of the code I write, or the way I think about designing and implementing code, is very much informed by statically typed languages like C#, Java, and C++ (and the way libraries for those languages work). So I have to re-learn best practices to implement solutions that use dictionaries, which Ruby implements with the Hash object. I often have to spend more time than I think I ought to implementing something fairly simple and then am unsure that the implementation is a decent Ruby solution or if it's suboptimal. Basically there are multiple design patterns that I need to learn the Ruby variations for.
+1) One challenge I have is re-training my development thinking to take advantage of Ruby. The code I write --
+or the way I think about designing and implementing code -- is very much informed by statically typed languages like
+C#, Java, and C++ (and the way libraries for those languages work). I want to get some more practice outside my
+current work (automation) using Ruby to implement other kinds of solutions.
 
-2) I live in the country so working remote is one of my only options. There are many remote opportunities with Ruby, so I feel the need to be really fluent in Ruby and Rails so I can bring good business value to any place I might work.
-
-3) Algorithms like searching and sorting drive me insane and I don't think clearly enough about them.
-
-4) Despite years of experience I'm still pretty weak with SQL DBs which is why I like ORMs but ... well I should get better with SQL over time.
+2) I live in the country so working remote is one of my only options. There are many remote opportunities with Ruby,
+so I feel the need to be really fluent in Ruby and Rails so I can bring good business value to any place I might work.

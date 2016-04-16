@@ -1,7 +1,15 @@
-1) Years of experience in software development: from QA development to software architect. It may seem odd that someone with my level of experience am taking a "beginning" Ruby nanodegree. I have worked in many different technology stacks but have concluded that I prefer Ruby. I'm more productive with it and intend on focusing on Ruby for the remainder of my tech career.
+1) I have many years of experience in software development: from QA development to software architect.
 
-2) I have a BS in Geology, an MA in Germanic Languages, and have done a ton of coursework in CS basically giving me the equivalent of BS in CS. I was in the first cohort at Georgia Tech's OMSCS -- but had to stop because the work load was too much for my family's health :)
+2) I have a BS in Geology, an MA in Germanic Languages, and have done a ton of coursework in CS at Texas State
+University, Austin Community College, UT, and even one of the OMSCS classes at Georgia Tech, also classes at Udacity,
+basically giving me the equivalent of BS in CS. My favorite non-tech job was teaching German at The University
+of Texas at Austin and at a private school in Frankfurt, Germany (yes, I taught German in Germany -- kinda crazy :)
 
-3) Using Ruby / RSpec / Watir / Appium for 2 years in automation work.
+3) Using Ruby / RSpec / Watir / Appium for last 2 years in automation work.
 
 4) I cannot stop learning. It's one of the most fun things for me.
+
+Work history, in ascending order: Cirrus Logic, Charles Schwab & Co, VersaSuite, Onlife Health, Bluefly.
+
+I have done pretty much every tech role from QA developer to junior developer to senior developer to systems architect
+and now SDET / QA Architect. I've steered away from management roles.
