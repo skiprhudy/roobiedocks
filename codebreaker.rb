@@ -26,10 +26,10 @@ code = "M.E?CIQN E?RS, D?NA EQC,IN S,,I Z?TQAM,"
 # ========================
 code.slice!(0)
 code.insert(11, "A EW? O")
-code.gsub!("Q","").gsub!("?","").gsub!(",","")
-code.downcase!
-code.reverse!
-code.capitalize!
+#code.tr!('Q?,','')
+#or
+code.delete!('Q?,')
+code.downcase!.reverse!.capitalize!
 puts code
 
 # ========================
