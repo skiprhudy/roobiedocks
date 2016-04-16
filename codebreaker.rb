@@ -24,7 +24,6 @@ code = "M.E?CIQN E?RS, D?NA EQC,IN S,,I Z?TQAM,"
 
 # All your code should go between these lines!
 # ========================
-len = code.length
 code.slice!(0)
 code.insert(11, "A EW? O")
 code.gsub!("Q","").gsub!("?","").gsub!(",","")
